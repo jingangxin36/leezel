@@ -21,9 +21,15 @@
     <ClInclude Include="Leezel.h">
       <Filter>src\Leezel</Filter>
     </ClInclude>
+    <ClInclude Include="Log.h">
+      <Filter>src\Leezel</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Application.cpp">
+      <Filter>src\Leezel</Filter>
+    </ClCompile>
+    <ClCompile Include="Log.cpp">
       <Filter>src\Leezel</Filter>
     </ClCompile>
   </ItemGroup>
